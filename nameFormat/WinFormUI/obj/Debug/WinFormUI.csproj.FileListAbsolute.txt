@@ -1,0 +1,10 @@
+G:\Programming\C_Sharp\nameFormat\WinFormUI\bin\Debug\WinFormUI.exe.config
+G:\Programming\C_Sharp\nameFormat\WinFormUI\bin\Debug\WinFormUI.exe
+G:\Programming\C_Sharp\nameFormat\WinFormUI\bin\Debug\WinFormUI.pdb
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.Form1.resources
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.exe
+G:\Programming\C_Sharp\nameFormat\WinFormUI\obj\Debug\WinFormUI.pdb
