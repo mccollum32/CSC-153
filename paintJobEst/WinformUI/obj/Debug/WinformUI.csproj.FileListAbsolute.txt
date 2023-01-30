@@ -1,0 +1,10 @@
+G:\Programming\C_Sharp\paintJobEst\WinformUI\bin\Debug\WinformUI.exe.config
+G:\Programming\C_Sharp\paintJobEst\WinformUI\bin\Debug\WinformUI.exe
+G:\Programming\C_Sharp\paintJobEst\WinformUI\bin\Debug\WinformUI.pdb
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.Form1.resources
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.Properties.Resources.resources
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.exe
+G:\Programming\C_Sharp\paintJobEst\WinformUI\obj\Debug\WinformUI.pdb
