@@ -1,0 +1,10 @@
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.Form1.resources
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.Properties.Resources.resources
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\bin\Debug\WindowsFormUI.exe.config
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\bin\Debug\WindowsFormUI.exe
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\bin\Debug\WindowsFormUI.pdb
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.exe
+G:\Programming\C_Sharp\randomFileWriter\WindowsFormUI\obj\Debug\WindowsFormUI.pdb
