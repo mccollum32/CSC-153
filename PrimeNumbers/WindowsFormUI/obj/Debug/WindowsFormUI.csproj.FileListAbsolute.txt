@@ -1,0 +1,10 @@
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\bin\Debug\WindowsFormUI.exe.config
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\bin\Debug\WindowsFormUI.exe
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\bin\Debug\WindowsFormUI.pdb
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.csproj.AssemblyReference.cache
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.Form1.resources
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.Properties.Resources.resources
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.exe
+C:\Users\mccolluj7506\Desktop\New folder\PrimeNumbers\WindowsFormUI\obj\Debug\WindowsFormUI.pdb
