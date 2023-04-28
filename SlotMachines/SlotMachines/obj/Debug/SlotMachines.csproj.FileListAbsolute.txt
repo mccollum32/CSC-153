@@ -1,0 +1,15 @@
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\SlotMachines.exe.config
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\SlotMachines.exe
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\SlotMachines.pdb
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.Form1.resources
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.Properties.Resources.resources
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.exe
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.pdb
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\ClassLibrary1.dll
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\GameMethodLibrary.dll
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\ClassLibrary1.pdb
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\bin\Debug\GameMethodLibrary.pdb
+G:\Programming\C_Sharp\SlotMachines\SlotMachines\obj\Debug\SlotMachines.csproj.CopyComplete
