@@ -1,0 +1,13 @@
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\bin\Debug\WrldSeriesWin.exe.config
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\bin\Debug\WrldSeriesWin.exe
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\bin\Debug\WrldSeriesWin.pdb
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.Form1.resources
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.Properties.Resources.resources
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.exe
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.pdb
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\bin\Debug\ClassLibrary1.dll
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\bin\Debug\ClassLibrary1.pdb
+G:\Programming\C_Sharp\WrldSeriesWin\WrldSeriesWin\obj\Debug\WrldSeriesWin.csproj.CopyComplete
