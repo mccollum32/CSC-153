@@ -1,0 +1,15 @@
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe.config
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.pdb
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.Form1.resources
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.Properties.Resources.resources
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.exe
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.pdb
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\CarLibrary.dll
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClassLibrary.dll
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\CarLibrary.pdb
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClassLibrary.pdb
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.CopyComplete

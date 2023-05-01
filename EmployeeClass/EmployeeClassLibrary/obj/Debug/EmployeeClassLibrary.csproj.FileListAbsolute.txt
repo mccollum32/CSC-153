@@ -1,0 +1,6 @@
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.dll
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.pdb
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.dll
+G:\Programming\C_Sharp\EmployeeClass\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.pdb
