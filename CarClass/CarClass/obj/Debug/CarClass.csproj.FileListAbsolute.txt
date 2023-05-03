@@ -1,0 +1,13 @@
+G:\Programming\C_Sharp\CarClass\CarClass\bin\Debug\CarClass.exe.config
+G:\Programming\C_Sharp\CarClass\CarClass\bin\Debug\CarClass.exe
+G:\Programming\C_Sharp\CarClass\CarClass\bin\Debug\CarClass.pdb
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.Form1.resources
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.Properties.Resources.resources
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.exe
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.pdb
+G:\Programming\C_Sharp\CarClass\CarClass\bin\Debug\CarLibrary.dll
+G:\Programming\C_Sharp\CarClass\CarClass\bin\Debug\CarLibrary.pdb
+G:\Programming\C_Sharp\CarClass\CarClass\obj\Debug\CarClass.csproj.CopyComplete

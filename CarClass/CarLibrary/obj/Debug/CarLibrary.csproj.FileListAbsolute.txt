@@ -1,0 +1,12 @@
+G:\Programming\C_Sharp\CarClass\CarLibrary\bin\Debug\CarLibrary.dll
+G:\Programming\C_Sharp\CarClass\CarLibrary\bin\Debug\CarLibrary.pdb
+G:\Programming\C_Sharp\CarClass\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\CarClass\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\CarClass\CarLibrary\obj\Debug\CarLibrary.dll
+G:\Programming\C_Sharp\CarClass\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\SP-Coding\Desktop\CarClass\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\SP-Coding\Desktop\CarClass\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\SP-Coding\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\SP-Coding\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SP-Coding\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\SP-Coding\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.pdb
