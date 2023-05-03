@@ -1,0 +1,12 @@
+G:\Programming\C_Sharp\WindowsForm\AreaClassLibrary1\bin\Debug\AreaClassLibrary1.dll
+G:\Programming\C_Sharp\WindowsForm\AreaClassLibrary1\bin\Debug\AreaClassLibrary1.pdb
+G:\Programming\C_Sharp\WindowsForm\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\WindowsForm\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\WindowsForm\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.dll
+G:\Programming\C_Sharp\WindowsForm\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.pdb
+G:\Programming\C_Sharp\AreaClass\AreaClassLibrary1\bin\Debug\AreaClassLibrary1.dll
+G:\Programming\C_Sharp\AreaClass\AreaClassLibrary1\bin\Debug\AreaClassLibrary1.pdb
+G:\Programming\C_Sharp\AreaClass\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\AreaClass\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\AreaClass\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.dll
+G:\Programming\C_Sharp\AreaClass\AreaClassLibrary1\obj\Debug\AreaClassLibrary1.pdb
