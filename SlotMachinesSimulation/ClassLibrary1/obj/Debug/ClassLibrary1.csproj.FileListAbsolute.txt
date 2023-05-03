@@ -1,0 +1,6 @@
+G:\Programming\C_Sharp\SlotMachines\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\Programming\C_Sharp\SlotMachines\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\Programming\C_Sharp\SlotMachines\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\SlotMachines\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\SlotMachines\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\Programming\C_Sharp\SlotMachines\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
