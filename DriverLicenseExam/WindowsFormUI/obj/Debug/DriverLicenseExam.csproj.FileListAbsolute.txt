@@ -1,0 +1,10 @@
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\bin\Debug\DriverLicenseExam.exe.config
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\bin\Debug\DriverLicenseExam.exe
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\bin\Debug\DriverLicenseExam.pdb
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.csproj.AssemblyReference.cache
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.Form1.resources
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.Properties.Resources.resources
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.csproj.GenerateResource.cache
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.csproj.CoreCompileInputs.cache
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.exe
+G:\Programming\C_Sharp\DriverLicenseExam\DriverLicenseExam\obj\Debug\DriverLicenseExam.pdb
